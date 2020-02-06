@@ -1,0 +1,11 @@
+C:\Users\int159\source\repos\CRM\CRM\bin\Debug\netcoreapp3.1\CRM.exe
+C:\Users\int159\source\repos\CRM\CRM\bin\Debug\netcoreapp3.1\CRM.deps.json
+C:\Users\int159\source\repos\CRM\CRM\bin\Debug\netcoreapp3.1\CRM.runtimeconfig.json
+C:\Users\int159\source\repos\CRM\CRM\bin\Debug\netcoreapp3.1\CRM.runtimeconfig.dev.json
+C:\Users\int159\source\repos\CRM\CRM\bin\Debug\netcoreapp3.1\CRM.dll
+C:\Users\int159\source\repos\CRM\CRM\bin\Debug\netcoreapp3.1\CRM.pdb
+C:\Users\int159\source\repos\CRM\CRM\obj\Debug\netcoreapp3.1\CRM.csprojAssemblyReference.cache
+C:\Users\int159\source\repos\CRM\CRM\obj\Debug\netcoreapp3.1\CRM.AssemblyInfoInputs.cache
+C:\Users\int159\source\repos\CRM\CRM\obj\Debug\netcoreapp3.1\CRM.AssemblyInfo.cs
+C:\Users\int159\source\repos\CRM\CRM\obj\Debug\netcoreapp3.1\CRM.dll
+C:\Users\int159\source\repos\CRM\CRM\obj\Debug\netcoreapp3.1\CRM.pdb
