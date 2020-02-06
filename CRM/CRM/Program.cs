@@ -113,11 +113,6 @@ namespace CRM
                     }
 
                 }
-                else
-                {
-                    Console.WriteLine("No User Exit:");
-                }
-
             }
             Console.ReadKey();
         }
